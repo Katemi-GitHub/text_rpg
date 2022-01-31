@@ -1,0 +1,11 @@
+quit            - Exit the game
+gen_room        - Generates a completely random gen_room
+gen_enemy       - Generates a enemy for the actual gen_room
+force_battle    - Force the last enemy you generated into a battle with you
+    attack      - Attack the enemy in battle
+    enemy_stats - Show the enemy enemy_stats
+    check_stats - Show your own stats
+inventory       - Show the items you've collected
+collection      - Show how much items there're and how many have you collected (it already shows in the inventory)
+enemy_loot      - Show what the enemy you generated carries with him
+equip           - NOT FINISHED
